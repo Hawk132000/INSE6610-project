@@ -1,0 +1,3 @@
+﻿* https://www.forensiccomputers.com/forensic-hardware
+* Hasan, Raza & Mahmood, Salman & Raghav, Akshyadeep. (2012). Overview on Computer Forensics tools. 400-403. 10.1109/CONTROL.2012.6334663. 
+*
