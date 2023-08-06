@@ -1,2 +1,9 @@
 https://www.sleuthkit.org/index.php
 https://securitytrails.com/blog/cyber-crime-investigation
+https://www.sleuthkit.org/index.php
+https://securitytrails.com/blog/cyber-crime-investigation
+https://securityintelligence.com/articles/10-open-source-intelligence-tools-existing-security-software/
+https://0xrick.github.io/lists/stego/
+https://www.techradar.com/best/best-data-recovery-software
+https://www.comparitech.com/blog/information-security/disk-encryption-software/
+http://www.rekall-forensic.com/
