@@ -1,0 +1,25 @@
+(Slide-1) Hardware tools:
+
+1. Write Blockers:
+
+Tableau Forensic Bridges: Tableau produces a range of write blockers, such as Tableau T8u Forensic USB 3.0 Bridge, Tableau T356789iu Forensic SATA/IDE Bridge, etc.
+
+WiebeTech Forensic UltraDock: A write-blocking device that supports various types of storage media, including SATA, IDE, USB, and FireWire.
+
+CRU WiebeTech UltraBlock: Provides write-blocking capabilities for SATA, USB, and IDE devices.
+
+2. Forensic Imagers:
+
+Tableau TD3 Forensic Imager: A portable forensic duplicator that supports imaging from various source types to multiple destination drives.
+
+Forensic Falcon NEO: A versatile and high-speed forensic imager that supports multiple interfaces and can image from multiple sources to multiple destinations.
+
+Atola Insight Forensic: An all-in-one forensic tool that combines a high-speed imager with advanced data recovery and analysis capabilities.
+
+3. JTAG/Chip-off Tools:
+
+RIFF Box: A popular JTAG box that supports a wide range of mobile devices for forensic analysis.
+
+Medusa Pro Box: Another JTAG tool that allows forensic investigators to access and analyze data on various mobile devices.
+
+CHIP-OFF Forensics Kit: Kits from different manufacturers that include specialized tools like hot air rework stations, microscopes, and tools for removing memory chips for chip-off analysis.
