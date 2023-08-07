@@ -2,7 +2,7 @@
 
 1. Logic Analyzers:
 
-> Saleae Logic Pro 16: A high-performance logic analyzer with 16 input channels, offering precise capture and analysis of digital signals.
+> Saleae Logic Pro 16: A high performance logic analyzer with 16 input channels, offering precise capture and analysis of digital signals.
 
 > Tektronix TLA7000 Series: A versatile logic analyzer family with a wide range of models, suitable for complex digital system analysis.
 
