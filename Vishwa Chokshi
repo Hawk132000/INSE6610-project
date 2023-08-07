@@ -1,35 +1,25 @@
-Hardware tools:
+(Slide-1) Hardware tools:
 
-Write Blockers: Hardware devices that prevent any data modifications on the original storage media during the forensic investigation, ensuring the integrity of evidence.
+1. Write Blockers:
 
-Disk Imaging Hardware: Devices used to create bit-by-bit copies of the original storage media, preserving all data, including deleted files and hidden information, for analysis without altering the original data.
+Tableau Forensic Bridges: Tableau produces a range of write blockers, such as Tableau T8u Forensic USB 3.0 Bridge, Tableau T356789iu Forensic SATA/IDE Bridge, etc.
 
-Hardware Write-Protect Devices: Similar to write blockers, these are physical switches or mechanisms that enable read-only access to storage devices.
+WiebeTech Forensic UltraDock: A write-blocking device that supports various types of storage media, including SATA, IDE, USB, and FireWire.
 
-Logic Analyzers: Devices used to capture, analyze, and decode digital signals, often used in chip-off forensics to examine integrated circuits.
+CRU WiebeTech UltraBlock: Provides write-blocking capabilities for SATA, USB, and IDE devices.
 
-Microscopes: High-powered microscopes are used for chip-off forensics to examine and analyze memory chips and circuitry at a microscopic level.
+2. Forensic Imagers:
 
-JTAG Emulators: JTAG (Joint Test Action Group) emulators enable access to the JTAG interface on electronic devices, allowing for low-level data extraction and analysis.
+Tableau TD3 Forensic Imager: A portable forensic duplicator that supports imaging from various source types to multiple destination drives.
 
-Bus Analyzers: Used to capture and analyze data transmitted on buses like USB, SATA, or FireWire, helping to understand device communications and extract data.
+Forensic Falcon NEO: A versatile and high-speed forensic imager that supports multiple interfaces and can image from multiple sources to multiple destinations.
 
-Disk Duplicators: Hardware devices used to create multiple copies of a storage device simultaneously.
+Atola Insight Forensic: An all-in-one forensic tool that combines a high-speed imager with advanced data recovery and analysis capabilities.
 
-Portable Forensic Workstations: Compact and powerful computers equipped with forensic software and hardware tools for on-site investigations.
+3. JTAG/Chip-off Tools:
 
-Faraday Bags: Shielded bags or cases used to isolate electronic devices from external communication, preventing remote data wiping or tampering.
+RIFF Box: A popular JTAG box that supports a wide range of mobile devices for forensic analysis.
 
-Data Recovery Hardware: Specialized hardware tools used to recover data from damaged or corrupted storage media.
+Medusa Pro Box: Another JTAG tool that allows forensic investigators to access and analyze data on various mobile devices.
 
-Mobile Device Forensic Kits: Specialized hardware packages that include connectors, adapters, and tools for extracting data from mobile devices.
-
-Soldering Stations: Used in chip-off forensics to remove memory chips or components for further analysis.
-
-Forensic Bridges: Hardware devices that facilitate the connection between different types of storage media and a computer for data extraction.
-
-Hardware Hashing Tools: Dedicated devices used to calculate hashes (checksums) of files or storage media to ensure data integrity.
-
-Network TAPs (Test Access Points): Hardware devices used to capture and monitor network traffic for network forensics.
-
-These hardware tools are essential for digital forensics investigators to collect and analyze digital evidence legally and ethically to aid in cybercrime investigations.
+CHIP-OFF Forensics Kit: Kits from different manufacturers that include specialized tools like hot air rework stations, microscopes, and tools for removing memory chips for chip-off analysis.
