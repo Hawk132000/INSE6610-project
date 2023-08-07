@@ -1,25 +1,25 @@
-(Slide-1) Hardware tools:
+(Slide-2) Hardware tools:
 
-1. Write Blockers:
+1. Hardware-based Keyloggers:
 
-Tableau Forensic Bridges: Tableau produces a range of write blockers, such as Tableau T8u Forensic USB 3.0 Bridge, Tableau T356789iu Forensic SATA/IDE Bridge, etc.
+Keyllama: A USB hardware keylogger that records keystrokes from a computer keyboard. It can be connected between the computer and the keyboard to capture and store keystrokes.
 
-WiebeTech Forensic UltraDock: A write-blocking device that supports various types of storage media, including SATA, IDE, USB, and FireWire.
+KeyGrabber USB Keylogger: Another USB keylogger that records keystrokes from a keyboard and stores the data in its internal memory.
 
-CRU WiebeTech UltraBlock: Provides write-blocking capabilities for SATA, USB, and IDE devices.
+PS/2 Keylogger: A keylogger designed to intercept keystrokes from a computer's PS/2 keyboard connector.
 
-2. Forensic Imagers:
+2. Network Packet Capture Devices:
 
-Tableau TD3 Forensic Imager: A portable forensic duplicator that supports imaging from various source types to multiple destination drives.
+Pcapng: A portable network packet capture device that allows capturing and analyzing network traffic for forensic analysis.
 
-Forensic Falcon NEO: A versatile and high-speed forensic imager that supports multiple interfaces and can image from multiple sources to multiple destinations.
+Wireshark: Although primarily a software-based packet capture tool, Wireshark can also be used in combination with supported hardware devices to capture network packets effectively.
 
-Atola Insight Forensic: An all-in-one forensic tool that combines a high-speed imager with advanced data recovery and analysis capabilities.
+Network TAPs: Hardware devices that are placed between network devices to passively monitor and capture network traffic without interfering with network operation.
 
-3. JTAG/Chip-off Tools:
+3. Mobile Forensic Kits:
 
-RIFF Box: A popular JTAG box that supports a wide range of mobile devices for forensic analysis.
+Cellebrite UFED (Universal Forensic Extraction Device): A popular mobile forensic kit used by law enforcement and digital forensics professionals to extract data from various mobile devices.
 
-Medusa Pro Box: Another JTAG tool that allows forensic investigators to access and analyze data on various mobile devices.
+MSAB XRY: Another mobile forensic solution that supports data extraction and analysis from a wide range of mobile devices.
 
-CHIP-OFF Forensics Kit: Kits from different manufacturers that include specialized tools like hot air rework stations, microscopes, and tools for removing memory chips for chip-off analysis.
+Oxygen Forensic Detective: A comprehensive mobile forensic kit that supports data extraction from smartphones, tablets, GPS devices, and other mobile devices.
