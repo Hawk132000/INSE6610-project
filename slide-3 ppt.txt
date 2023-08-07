@@ -1,0 +1,25 @@
+(slide-3) 
+
+1. Logic Analyzers:
+
+> Saleae Logic Pro 16: A high-performance logic analyzer with 16 input channels, offering precise capture and analysis of digital signals.
+
+> Tektronix TLA7000 Series: A versatile logic analyzer family with a wide range of models, suitable for complex digital system analysis.
+
+> Keysight (formerly Agilent) MSO-X 3054T: A mixed-signal oscilloscope with logic analyzer capabilities, providing both analog and digital signal analysis.
+
+2. Faraday Bags and Shields:
+
+> Mission Darkness Dry Shield Faraday Bags: Designed to block all wireless signals, including cellular, Wi-Fi, Bluetooth, and GPS, providing isolation and protection for electronic devices.
+
+> Black Hole Faraday Bag: A rugged bag that offers protection against radio frequency (RF) signals, used to secure and isolate mobile devices.
+
+> Faraday RF Shielding Foil: A versatile material that can be used to create custom Faraday cages or sleeves for shielding electronic devices from electromagnetic radiation.
+
+3. GPS Tracking Devices:
+
+> LandAirSea 54 GPS Tracker: A compact real-time GPS tracker with various mounting options, suitable for tracking vehicles and assets.
+
+> SpyTec STI GL300MA GPS Tracker: A small and discreet GPS tracker with long battery life, used for personal or asset tracking.
+
+> Tracki 2021 Model Mini GPS Tracker: A lightweight GPS tracking device with a range of features, including real-time tracking, geofencing, and historical location data.
