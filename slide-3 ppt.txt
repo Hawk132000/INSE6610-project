@@ -1,4 +1,4 @@
-(slide-3) 
+(slide-3) Hardware tools:
 
 1. Logic Analyzers:
 
