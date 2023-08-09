@@ -3,4 +3,4 @@
 
 *Summer 2, 2023 - Survey report project INSE 6610 Cyber Crime Investigation.*
 
-**URL to Access Our Survey Report:** *https://docs.google.com/document/d/1JgEFrnyGZ2eZh8Fa3y9muz4F2ABRl1cE-CFoqYEzOXk/edit*
+**URL to Access Our Survey Report:** *https://drive.google.com/file/d/11SMoHKUgkwa8o_n0MSyGWtJxOaQYPRg1/view?usp=sharing*
